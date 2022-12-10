@@ -7,5 +7,6 @@
   <a href="www.linkedin.com/in/reis-pinnock-a6800321b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <img src="https://komarev.com/ghpvc/?username=ReisCodes&style=flat-square&color=blue" alt=""/>
 </div>
 
